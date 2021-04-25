@@ -1,6 +1,6 @@
 # GTN 750Xi
 
-> This project doesn't have deployed version. You can only see code [here](./code-example/HorizontalSituationIndicator) (horizontal situation indicator).
+> This project doesn't have deployed version. You can only see code [here](./code-example) (simple button and button background).
 
 ## Technologies used
 

@@ -14,6 +14,8 @@ Also next spetial content was created for buttons:
 
 ## Simple button
 
+> The simple button code can found [here](../code-example).
+
 A simple button you can see on the main home screen. This button also located in other places.
 
 Simple buttons:
